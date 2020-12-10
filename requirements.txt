@@ -1,0 +1,5 @@
+python-decouple==3.3
+GetOldTweets3==0.0.11
+pyTelegramBotAPI==3.7.3
+requests==2.24.0
+
